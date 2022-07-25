@@ -1,0 +1,27 @@
+filename	ATTRIBUTE_species	ATTRIBUTE_SampleType	ATTRIBUTE_timepoint	ATTRIBUTE_replicates	Accessions	Treatments	Kinetics	Samples_code	Conditions_code	B14_H2O_JN2	D14_H2O_JN2	B28_H2O_JN2	D28_H2O_JN2	B14_28_H2O_JN2	D14_28_H2O_JN2	B14_B28_D14_D28_H2O	B14_D14_H2O	B28_D28_H2O	B14_D14_JN2	B28_D28_JN2	B14_B28_D14_D28_JN2	BJN2_14	DJN2_14	BJN2_28	DJN2_28
+S01_B14_H2O_POS.mzML area	Bristol	Without_Treatment	14dpi	1	Bristol	H2O	14dpi	B14_H2O_rep1	Bristol_14_H2O	Bristol_14_H2O	NA	NA	NA	H2O	NA	Bristol_Control	Bristol_14_H2O	NA	NA	NA	NA	Bristol_14_H2O	NA	NA	NA
+S02_B14_H2O_POS.mzML area	Bristol	Without_Treatment	14dpi	2	Bristol	H2O	14dpi	B14_H2O_rep2	Bristol_14_H2O	Bristol_14_H2O	NA	NA	NA	H2O	NA	Bristol_Control	Bristol_14_H2O	NA	NA	NA	NA	Bristol_14_H2O	NA	NA	NA
+S03_D14_H2O_POS.mzML area	Darmor	Without_Treatment	14dpi	1	Darmor	H2O	14dpi	D14_H2O_rep1	Darmor_14_H2O	NA	Darmor_14_H2O	NA	NA	NA	H2O	Darmor_Control	Darmor_14_H2O	NA	NA	NA	NA	NA	Darmor_14_H2O	NA	NA
+S04_D14_H2O_POS.mzML area	Darmor	Without_Treatment	14dpi	2	Darmor	H2O	14dpi	D14_H2O_rep2	Darmor_14_H2O	NA	Darmor_14_H2O	NA	NA	NA	H2O	Darmor_Control	Darmor_14_H2O	NA	NA	NA	NA	NA	Darmor_14_H2O	NA	NA
+S20_B28_H2O_POS.mzML area	Bristol	Without_Treatment	28dpi	1	Bristol	H2O	28dpi	B28_H2O_rep1	Bristol_28_H2O	Bristol_28_H2O	NA	NA	NA	H2O	NA	Bristol_Control	NA	Bristol_28_H2O	NA	NA	NA	NA	NA	Bristol_28_H2O	NA
+S21_B28_H2O_POS.mzML area	Bristol	Without_Treatment	28dpi	2	Bristol	H2O	28dpi	B28_H2O_rep2	Bristol_28_H2O	Bristol_28_H2O	NA	NA	NA	H2O	NA	Bristol_Control	NA	Bristol_28_H2O	NA	NA	NA	NA	NA	Bristol_28_H2O	NA
+S22_B28_H2O_POS.mzML area	Bristol	Without_Treatment	28dpi	3	Bristol	H2O	28dpi	B28_H2O_rep3	Bristol_28_H2O	Bristol_28_H2O	NA	NA	NA	H2O	NA	Bristol_Control	NA	Bristol_28_H2O	NA	NA	NA	NA	NA	Bristol_28_H2O	NA
+S23_D28_H2O_POS.mzML area	Darmor	Without_Treatment	28dpi	1	Darmor	H2O	28dpi	D28_H2O_rep1	Darmor_28_H2O	NA	Darmor_28_H2O	NA	NA	NA	H2O	Darmor_Control	NA	Darmor_28_H2O	NA	NA	NA	NA	NA	NA	Darmor_28_H2O
+S24_D28_H2O_POS.mzML area	Darmor	Without_Treatment	28dpi	2	Darmor	H2O	28dpi	D28_H2O_rep2	Darmor_28_H2O	NA	Darmor_28_H2O	NA	NA	NA	H2O	Darmor_Control	NA	Darmor_28_H2O	NA	NA	NA	NA	NA	NA	Darmor_28_H2O
+S25_D28_H2O_POS.mzML area	Darmor	Without_Treatment	28dpi	3	Darmor	H2O	28dpi	D28_H2O_rep3	Darmor_28_H2O	NA	Darmor_28_H2O	NA	NA	NA	H2O	Darmor_Control	NA	Darmor_28_H2O	NA	NA	NA	Bristol_14_JN2	NA	NA	Darmor_28_H2O
+S07_B14_JN2_POS.mzML area	Bristol	With_Treatment	14dpi	1	Bristol	JN2	14dpi	B14_JN2_rep1	Bristol_14_JN2	NA	NA	Bristol_14_JN2	NA	JN2	NA	NA	NA	NA	Bristol_14_JN2	NA	Bristol_JN2	Bristol_14_JN2	NA	NA	NA
+S08_B14_JN2_POS.mzML area	Bristol	With_Treatment	14dpi	2	Bristol	JN2	14dpi	B14_JN2_rep2	Bristol_14_JN2	NA	NA	Bristol_14_JN2	NA	JN2	NA	NA	NA	NA	Bristol_14_JN2	NA	Bristol_JN2	Bristol_14_JN2	NA	NA	NA
+S09_B14_JN2_POS.mzML area	Bristol	With_Treatment	14dpi	3	Bristol	JN2	14dpi	B14_JN2_rep3	Bristol_14_JN2	NA	NA	Bristol_14_JN2	NA	JN2	NA	NA	NA	NA	Bristol_14_JN2	NA	Bristol_JN2	NA	Darmor_14_JN2	NA	NA
+S10_D14_JN2_POS.mzML area	Darmor	With_Treatment	14dpi	1	Darmor	JN2	14dpi	D14_JN2_rep1	Darmor_14_JN2	NA	NA	NA	Darmor_14_JN2	NA	JN2	NA	NA	NA	Darmor_14_JN2	NA	Darmor_JN2	NA	Darmor_14_JN2	NA	NA
+S11_D14_JN2_POS.mzML area	Darmor	With_Treatment	14dpi	2	Darmor	JN2	14dpi	D14_JN2_rep2	Darmor_14_JN2	NA	NA	NA	Darmor_14_JN2	NA	JN2	NA	NA	NA	Darmor_14_JN2	NA	Darmor_JN2	NA	Darmor_14_JN2	NA	NA
+S12_D14_JN2_POS.mzML area	Darmor	With_Treatment	14dpi	3	Darmor	JN2	14dpi	D14_JN2_rep3	Darmor_14_JN2	NA	NA	NA	Darmor_14_JN2	NA	JN2	NA	NA	NA	Darmor_14_JN2	NA	Darmor_JN2	NA	NA	NA	NA
+S26_B28_JN2_POS.mzML area	Bristol	With_Treatment	28dpi	1	Bristol	JN2	28dpi	B28_JN2_rep1	Bristol_28_JN2	NA	NA	Bristol_28_JN2	NA	JN2	NA	NA	NA	NA	NA	Bristol_28_JN2	Bristol_JN2	NA	NA	Bristol_28_JN2	NA
+S27_B28_JN2_POS.mzML area	Bristol	With_Treatment	28dpi	2	Bristol	JN2	28dpi	B28_JN2_rep2	Bristol_28_JN2	NA	NA	Bristol_28_JN2	NA	JN2	NA	NA	NA	NA	NA	Bristol_28_JN2	Bristol_JN2	NA	NA	Bristol_28_JN2	NA
+S28_B28_JN2_POS.mzML area	Bristol	With_Treatment	28dpi	3	Bristol	JN2	28dpi	B28_JN2_rep3	Bristol_28_JN2	NA	NA	Bristol_28_JN2	NA	JN2	NA	NA	NA	NA	NA	Bristol_28_JN2	Bristol_JN2	NA	NA	Bristol_28_JN2	NA
+S29_D28_JN2_POS.mzML area	Darmor	With_Treatment	28dpi	1	Darmor	JN2	28dpi	D28_JN2_rep1	Darmor_28_JN2	NA	NA	NA	Darmor_28_JN2	NA	JN2	NA	NA	NA	NA	Darmor_28_JN2	Darmor_JN2	NA	NA	NA	Darmor_28_JN2
+S30_D28_JN2_POS.mzML area	Darmor	With_Treatment	28dpi	2	Darmor	JN2	28dpi	D28_JN2_rep2	Darmor_28_JN2	NA	NA	NA	Darmor_28_JN2	NA	JN2	NA	NA	NA	NA	Darmor_28_JN2	Darmor_JN2	NA	NA	NA	Darmor_28_JN2
+S31_D28_JN2_POS.mzML area	Darmor	With_Treatment	28dpi	3	Darmor	JN2	28dpi	D28_JN2_rep3	Darmor_28_JN2	NA	NA	NA	Darmor_28_JN2	NA	JN2	NA	NA	NA	NA	Darmor_28_JN2	Darmor_JN2	NA	NA	NA	Darmor_28_JN2
+S05_Dn14_H2O_POS.mzML area	Darmor-bzh	Without_Treatment	14dpi	1	Darmor-bzh	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+S06_Dn14_H2O_POS.mzML area	Darmor-bzh	Without_Treatment	14dpi	2	Darmor-bzh	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+PM04_POS.mzML area	Media	Blank	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+PM05_POS.mzML area	Media	Blank	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
